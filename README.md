@@ -1,2 +1,2 @@
 # PGSO
-Repository for ICLR paper: https://openreview.net/forum?id=0OlrLvrsHwQ
+Repository for the ICLR 2021 paper: https://openreview.net/forum?id=0OlrLvrsHwQ
